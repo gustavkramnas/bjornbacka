@@ -23,4 +23,4 @@ Workflow: Group project, Github, branches, Git merge, Git organizations, tech me
 
 💾 Webpage: https://bjornbacka.vercel.app/
 
-[figma link]: https://www.figma.com/file/QlhlxKPA450hV5VJ19uM0S/Team-2---bj%C3%B6rnbacka?node-id=0%3A1&t=DhQy8q7CRXzLyhuo-0
+Figma: https://www.figma.com/file/QlhlxKPA450hV5VJ19uM0S/Team-2---bj%C3%B6rnbacka?node-id=0%3A1&t=DhQy8q7CRXzLyhuo-0
