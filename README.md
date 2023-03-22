@@ -1,41 +1,29 @@
-# Björnbacka website
+# Björnbacka website (static website - not done)
 
-This project is a for code-collaborate course.
+📂 The Brief: Manage team’s project effectively by considering implementing
+suitable development tools and techniques, time management, effective
+teamwork/team dynamics, and execute iterative and agile development
+strategies.
 
-+ Team :front end and UX students 
+⏳ Time spent / Deadline: 2 weeks
 
-+ Client: Björnbacka / Inner Journeys
+Client: Björnbacka / Inner Journeys
 
+Team :front end and UX students 
 
+🎯 Goals: Learn and try out agile ways of working. Learn how to break down
+and implement designs into a functional product and explore learning design systems and social
+coding (mob programming/pair programming etc).
 
-## Related Links
-### [Figma link](https://www.figma.com/file/QlhlxKPA450hV5VJ19uM0S/Team-2---bj%C3%B6rnbacka?node-id=0%3A1&t=DhQy8q7CRXzLyhuo-0)
-### [Website Demo](https://bjornbacka-9ffo.vercel.app/)
-## Tech stack
-+ React 
-+ Scrum mastering
-+ UX/UI 
+😬 Description: welcome to björnbacka, an website where you can "order" food. A single-page application made with react.js and node.js. ** ONLY FOR DESKTOP **
 
+📘 Learnings: JSX / more CSS / NODE.js / REACT.js, Scrum / mob & pair programming / Advanced Git / GitHub Issues, Reviews & Kanban.
 
-# This section is for developers
+Workflow: Group project, Github, branches, Git merge, Git organizations, tech meetings, scrum, colloborating with UX designers. 
 
-## How to run the project
-1. Clone the whole project
+💻 Tech used in this specific repository: JSX, REACT.JS, SCRUM, UX, FIGMA
 
-2. run `npm install` in terminal in order to have node-modules
+💾 the page: https://bjornbacka.vercel.app/
 
-3. run `npm start` to get the local host
+[Figma link]: https://www.figma.com/file/QlhlxKPA450hV5VJ19uM0S/Team-2---bj%C3%B6rnbacka?node-id=0%3A1&t=DhQy8q7CRXzLyhuo-0
 
-## Commands 
-* ### Add a Branch
-
-1. `git pull` to first pull latest changes 
-
-2. `git checkout -b name_of_new_branch` to create and switch to the new branch
-
-3. `git push origin name_of_new_branch` to push the branch to Github
-
-* ### Update a branch
- +  Run `git merge master` To update branch X with master
- +  Run `git checkout branch_name` to switch between branches
- +
