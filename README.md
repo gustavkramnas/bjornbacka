@@ -15,8 +15,6 @@ Team :front end and UX students
 and implement designs into a functional product and explore learning design systems and social
 coding (mob programming/pair programming etc).
 
-😬 Description: welcome to björnbacka, an website where you can "order" food. A single-page application made with react.js and node.js. ** ONLY FOR DESKTOP **
-
 📘 Learnings: JSX / more CSS / NODE.js / REACT.js, Scrum / mob & pair programming / Advanced Git / GitHub Issues, Reviews & Kanban.
 
 Workflow: Group project, Github, branches, Git merge, Git organizations, tech meetings, scrum, colloborating with UX designers. 
