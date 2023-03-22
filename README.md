@@ -21,7 +21,6 @@ Workflow: Group project, Github, branches, Git merge, Git organizations, tech me
 
 💻 Tech used in this specific repository: JSX, REACT.JS, SCRUM, UX, FIGMA
 
-💾 the page: https://bjornbacka.vercel.app/
+💾 Webpage: https://bjornbacka.vercel.app/
 
-[Figma link]: https://www.figma.com/file/QlhlxKPA450hV5VJ19uM0S/Team-2---bj%C3%B6rnbacka?node-id=0%3A1&t=DhQy8q7CRXzLyhuo-0
-
+[figma link]: https://www.figma.com/file/QlhlxKPA450hV5VJ19uM0S/Team-2---bj%C3%B6rnbacka?node-id=0%3A1&t=DhQy8q7CRXzLyhuo-0
